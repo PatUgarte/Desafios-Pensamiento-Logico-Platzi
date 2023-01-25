@@ -1,2 +1,6 @@
-# Desafios-Pensamiento-Logico-Platzi
-Desafíos Semanales de los cursos de Pensamiento Lógico de Platzi
+# Desafios Semanales de Pensamiento Lógico de Platzi
+
+---
+
+## Desafío 1: Cajas de Frutas
+
