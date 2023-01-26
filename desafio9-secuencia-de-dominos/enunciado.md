@@ -1,9 +1,12 @@
 # Descripción del reto
-> Encuentra la lógica de las siguientes operaciones y números:
-> - 3 + 2 = 33
-> - 4 + 8 = 288
-> - 5 + 3 = 3140
-> - 6 + 3 = 46674
+> ![dominos](https://static.platzi.com/media/user_upload/Dominos-94671981-69cc-480c-902a-5d580ed984bc.jpg)
+> Encuentra la secuencia siguiente en la piezas presentadas:
+> 1.     4/5
+> 2.     5/0
+> 3.     0/1
+> 4.     1/3
+> 5.     3/4
+> 6.     ??
 
 ## ¿Qué esperamos de ti?
 Se requiere dar solución al desafío de más arriba, para esto necesitamos que dividas este ejercicio en dos fases:

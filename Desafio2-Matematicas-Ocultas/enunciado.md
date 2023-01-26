@@ -18,7 +18,7 @@ Se requiere dar solución al desafío de más arriba, para esto necesitamos que 
 3. *Toma el Quiz:* en el quiz encontrarás las posibles respuestas a este problema, entre ellas la respuesta correcta, recuerda que después del quiz encontrarás una nueva clase con la explicación del problema y su solución.
 
 ### Fase 2: pasemos al código
-Ahora pasemos al siguiente nivel, empecemos a traducir la(s) solución(es) a código:
+Ahora pasemos al siguiente nivel, empecemos a traducir la(s) solución(es) a código.
 
 Luego de ver la solución, tendremos un Playground donde podrás implementar la solución usando código. ¡Tendrás feedback inmediato!
 
