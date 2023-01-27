@@ -1,9 +1,17 @@
 # Descripción del reto
-> ![unir-puntos](https://static.platzi.com/media/user_upload/unelospuntos-c0f8beaf-7b49-47df-a5eb-422c88b51de5.jpg)
-> Encuentra la secuencia de líneas que une los puntos presenta siguiente en la pieza, tomando en cuenta que estos no pueden cruzarse entre si.
+> En este desafío te damos como entrada un número positivo mayor a cero y debes regresar un arreglo con todos los números primos menores o iguales a ese número de entrada ordenados de menor a mayor.
+> - Recuerda que un número es primo si es solo divisible por 1 y por si mismo.
+>> Nota: Todos los números primos son números impares a excepción del número 2. El número 1 no es primo porque no cumple con las dos condiciones mencionadas arriba.
 
 ## ¿Qué esperamos de ti?
-Se requiere dar solución al desafío de más arriba, toma en cuenta que este es un tipo de ejercicio **<u>totalmente lógico</u>, razón por la que nos olvidaremos del código en este desafío.**
+Se requiere dar solución al desafío de más arriba, toma en cuenta que este es un tipo de ejercicio **<u>totalmente en código</u>, sin embargo es bueno analizarlo previamente antes de empezar a programar.**
+
+### Ejemplo:
+> Input:
+>> ___solution(5)___
+
+> Output:
+>> ___[2, 3, 5]___
 
 Para completarlo aplica los siguientes pasos:
 1. *Identifica posibles soluciones:* piensa en como solucionarías este problema, en ocasiones puedes tener más de una solución, por lo que te invito a que no te limites y desarrolles todas las soluciones que identifiques.
@@ -16,13 +24,4 @@ Para completarlo aplica los siguientes pasos:
 - Curso de Pensamiento Lógico: Algoritmos y Diagramas de Flujo
 - Curso de Pensamiento Lógico: Lenguajes de Programación
 - Curso de Pensamiento Lógico: Manejo de Datos, Estructuras y Funciones
-
-<br>
-
----
-
-<br>
-
-## Solución:
-
-![unir-puntos-resuelto](https://static.platzi.com/media/user_upload/uniendo-lineas-a2e9c9ac-d96e-4a40-95f0-271137ea763e.jpg)
+- Curso de Fundamentos de Matemáticas
